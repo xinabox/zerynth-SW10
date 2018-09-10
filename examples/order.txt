@@ -1,0 +1,3 @@
+#XinaBox
+    ##SW10
+		ambient_temperature
