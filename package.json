@@ -7,7 +7,7 @@
         "temperature",
         "sensor",
         "I2C",
-        "xinabox"
+        "xinabox",
         "LM75"
     ],
         "info": {
