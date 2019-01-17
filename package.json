@@ -1,8 +1,13 @@
 {
+    "description": "Module for XinaBox SW10 ambient temperature sensor",
     "fullname": "lib.xinabox.sw10",
     "git_pointer": "github://xinabox/zerynth-SW10",
-    "title": "XinaBox SW10",
-    "description": "Module for XinaBox SW10 ambient temperature sensor",
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SW10",
+        "name": "Ambient Temperature Sensor",
+        "type": "Sensor"
+    },
     "keywords": [
         "temperature",
         "sensor",
@@ -10,12 +15,7 @@
         "xinabox",
         "LM75"
     ],
-        "info": {
-        "chip_manufacturer": "XinaBox",
-        "chip_name": "SW10",
-        "name": "Ambient Temperature Sensor",
-        "type": "Sensor"
-    }, 
     "repo": "official",
-    "version": "r2.1.2"
+    "title": "XinaBox SW10",
+    "version": "r2.2.0"
 }
